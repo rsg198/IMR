@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\DefaultInitializationErrorHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\DefaultInitializationErrorHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB0CF9-35D8-C7E5-FAA3-DABD2F848771}|Assembly-CSharp.csproj|c:\\users\\dev-dragos\\onedrive\\desktop\\myfirstarproject\\assets\\scripts\\cactusfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AB0CF9-35D8-C7E5-FAA3-DABD2F848771}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cactusfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\VuforiaScripts.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\VuforiaScripts.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7110E843-58FA-8373-B4CB-5BD9DB0A0B42}|Assembly-CSharp-Editor.csproj|C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\assets\\editor\\migration\\addvuforiaenginepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7110E843-58FA-8373-B4CB-5BD9DB0A0B42}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\migration\\addvuforiaenginepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB0CF9-35D8-C7E5-FAA3-DABD2F848771}|Assembly-CSharp.csproj|C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\assets\\streamingassets\\vuforia\\roverimage.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37AB0CF9-35D8-C7E5-FAA3-DABD2F848771}|Assembly-CSharp.csproj|solutionrelative:assets\\streamingassets\\vuforia\\roverimage.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultInitializationErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\DefaultInitializationErrorHandler.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\DefaultInitializationErrorHandler.cs",
+              "ToolTip": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\DefaultInitializationErrorHandler.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\DefaultInitializationErrorHandler.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:14:19.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VuforiaScripts.asmdef",
+              "DocumentMoniker": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\VuforiaScripts.asmdef",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\VuforiaScripts.asmdef",
+              "ToolTip": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\VuforiaScripts.asmdef",
+              "RelativeToolTip": "Library\\PackageCache\\com.ptc.vuforia.engine@b724a8714d15\\Vuforia\\Scripts\\VuforiaScripts.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-10-16T07:57:28.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddVuforiaEnginePackage.cs",
+              "DocumentMoniker": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Assets\\Editor\\Migration\\AddVuforiaEnginePackage.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Migration\\AddVuforiaEnginePackage.cs",
+              "ToolTip": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Assets\\Editor\\Migration\\AddVuforiaEnginePackage.cs",
+              "RelativeToolTip": "Assets\\Editor\\Migration\\AddVuforiaEnginePackage.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:51:43.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoverImage.xml",
+              "DocumentMoniker": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Assets\\StreamingAssets\\Vuforia\\RoverImage.xml",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Vuforia\\RoverImage.xml",
+              "ToolTip": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Assets\\StreamingAssets\\Vuforia\\RoverImage.xml",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Vuforia\\RoverImage.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-16T07:51:33.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CactusFight.cs",
+              "DocumentMoniker": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Assets\\Scripts\\CactusFight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CactusFight.cs",
+              "ToolTip": "C:\\Users\\DEV-Dragos\\OneDrive\\Desktop\\MyFirstARProject\\Assets\\Scripts\\CactusFight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CactusFight.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:51:10.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
